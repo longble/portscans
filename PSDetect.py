@@ -1,5 +1,5 @@
 # Author Michael Patlovich
-
+# Detects a port scan
 from scapy.all import *
 import os
 import sys

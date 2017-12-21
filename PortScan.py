@@ -1,5 +1,5 @@
 # Author Michael Patlovich
-
+# This will scan all ports given a certain IP address
 import os
 import sys
 import argparse

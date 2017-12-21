@@ -1,5 +1,5 @@
 # Author Michael Patlovich
-
+# The ports of a given IP address, having stoppage time so that it cannot be detected
 import os
 import sys
 import argparse
