@@ -27,8 +27,7 @@ except socket.error:
 	sys.exit()
 	
 
-print "Scan finished!"
-
+print "Scan finished!!!"
 
 print "_" * 60
 print "{} port(s) found".format(numports)
